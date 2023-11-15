@@ -1,0 +1,14 @@
+<object-stream>
+  <list>
+    <Artist>
+      <artistName>Cardinal Copia</artistName>
+      <artistEmail>Invalid Email Format</artistEmail>
+      <artistPhone>69696969</artistPhone>
+    </Artist>
+    <Artist>
+      <artistName>Papa Emeritus IV</artistName>
+      <artistEmail>papaSecondo@gmail.com</artistEmail>
+      <artistPhone>64233432432</artistPhone>
+    </Artist>
+  </list>
+</object-stream>
